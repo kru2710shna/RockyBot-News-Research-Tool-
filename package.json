@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "@langchain/community": "^0.0.16",
-    "langchain": "^0.1.2"
-  }
-}
